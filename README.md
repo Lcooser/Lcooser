@@ -1,7 +1,7 @@
 ### Hello, I'm Luiz Coser, a Computer Engineering student, by the time i'm not working with development but i'm trying to start.
 
 - 🔭 I’m currently working on another area but i'm studying to start at development.
-- 🌱 About last year, when i started college, i learned python, now, i'm learning javascript  and node.js.
+- 🌱 About last year, when i started college, i learned python, now, i'm learning javascript, node.js, java, sql and mongodb.
 - 📫 Reach me on my email: luiz.cooser1@gmail.com
 
 <div>
