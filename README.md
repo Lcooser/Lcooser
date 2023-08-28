@@ -1,7 +1,7 @@
 ### Hello, I'm Luiz Coser, a Computer Engineering and a math student, by the time i'm suport assistant TI, working with SAP.
 
 - 🔭 I’m currently working with SAP, module SD.
-- 🌱 Right now i'm studying Javascript, nodejs, express, mongodb, java and SQL.
+- 🌱 Right now i'm studying SAP, reactjs, java and C#, I do have some knowledge in javascript, nodejs, mongodb, SQL, Firebase and python.
 - 📫 Reach me on my email: luiz.cooser1@gmail.com
 
 <div>
